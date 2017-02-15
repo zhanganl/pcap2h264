@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "203fa5d1-75b4-7a4a-8082-270ef1848e1a++2870",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "203fa5d1-75b4-7a4a-8082-270ef1848e1a++2870" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "203fa5d1-75b4-7a4a-8082-270ef1848e1a++2870" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E180FC87-1A19-43A7-96A8-C68418870D0E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "203fa5d1-75b4-7a4a-8082-270ef1848e1a++2870" : "tools\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pcap",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "pcap2h264\/pcap.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/172.16.3.190\/svn\/team",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "203fa5d1-75b4-7a4a-8082-270ef1848e1a++2870"
+    }
+  ]
+}
